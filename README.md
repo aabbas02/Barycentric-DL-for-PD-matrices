@@ -2,7 +2,7 @@
 #  Barycentric dictionary learning problem setup
 
 The problem setup is described below.
-![plot](./figures/problem_setup.PNG)
+![plot](./figures/problem_setup.png)
 
 
 # Algorithm 
