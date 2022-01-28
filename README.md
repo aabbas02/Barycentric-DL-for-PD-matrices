@@ -2,12 +2,12 @@
 #  Barycentric dictionary learning problem setup
 
 The problem setup is described below.
+
 ![plot](./figures/problem_setup.png)
 
 
 # Algorithm 
 A description of the alernating minimization algorithm is below.
-
 
 ![plot](./figures/alt_min.png)
 
