@@ -2,4 +2,4 @@
  Jupyter notebook demonstration of dictionary learning for PD matrices. The PD matrices are approximated as the barycenter of the learnt dictionary atoms.
 
 
-![plot](./figure.png)
+![plot](./figures/problem_setup.PNG)
