@@ -1,5 +1,5 @@
 
-#  Barycentric dictionary learning problem setup
+#  Barycentric dictionary learning for positive definte matrices
 
 The problem setup is described below.
 
