@@ -16,4 +16,4 @@ The example below represents an input data point a (3x3) positive definite matri
 
 ![example](./figures/example.png)
 # Code description
-The code is a fully vectorized implementation of the algorithm above. For detailed description of the function routines, please view the notebook .ipynb file.
+The code is a fully vectorized implementation of the algorithm above. For detailed description of the function routines, please view the notebook main.ipynb file.
